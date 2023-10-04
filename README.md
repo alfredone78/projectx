@@ -15,3 +15,5 @@ Items:
 - Mini digital voltmeter
 - GPIO Extension cable
 - Power Adapter USB Type-C 5.1V 3A
+
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/IMG_20230928_162109.jpg?raw=true)
