@@ -1,7 +1,7 @@
 # projectx
 Laptop based on Raspberry PI 4
 
-Items:
+Parts list:
 - [Raspberry PI 4 - 8GB RAM](https://www.amazon.it/dp/B0C9PQ9S5X/)
 - [Display 8" HDMI 1280x800 Waveshare ‎8DP-CAPLCD](https://www.amazon.it/dp/B0BPMCTQQ8)
 - [SSD Crucial P3 500GB M.2 PCIe Gen3 NVMe](https://www.amazon.it/dp/B0B25LQQPC)
