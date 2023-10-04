@@ -16,4 +16,18 @@ Items:
 - GPIO Extension cable
 - Power Adapter USB Type-C 5.1V 3A
 
-![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/IMG_20230928_162109.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/001.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/002.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/003.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/004.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/005.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/006.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/007.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/008.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/009.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/010.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/011.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/012.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/013.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/014.jpg?raw=true)
+![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/015.jpg?raw=true)
