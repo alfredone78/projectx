@@ -3,7 +3,6 @@ Laptop based on Raspberry PI 4
 
 Parts list:
 - [Raspberry PI 4 - 8GB RAM](https://www.amazon.it/dp/B0C9PQ9S5X/)
-- [Raspberry PI 4 - 8GB RAM](https://www.amazon.it/dp/B0C9PQ9S5X/ target="_blank")
 - [Display 8" HDMI 1280x800 Waveshare ‎8DP-CAPLCD](https://www.amazon.it/dp/B0BPMCTQQ8)
 - [SSD Crucial P3 500GB M.2 PCIe Gen3 NVMe](https://www.amazon.it/dp/B0B25LQQPC)
 - [USB Adapter Lemorele M.2 NVMe SSD Adattatore USB C 3.1](https://www.amazon.it/dp/B08TWWQ9ZS)
