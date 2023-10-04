@@ -3,8 +3,8 @@ Laptop based on Raspberry PI 4
 
 Items:
 - Raspberry PI 4 - 8GB RAM
-- [Raspberry PI 4 - 8GB RAM] (https://www.amazon.it/dp/B0C9PQ9S5X/)
-- This site was built using [GitHub Pages](https://pages.github.com/)
+- [Raspberry PI 4 - 8GB RAM](https://www.amazon.it/dp/B0C9PQ9S5X/)
+- [GitHub Pages](https://pages.github.com/)
 - Display 8" HDMI 1280x800 Waveshare ‎8DP-CAPLCD
 - SSD Crucial P3 500GB M.2 PCIe Gen3 NVMe
 - USB Adapter Lemorele M.2 NVMe SSD Adattatore USB C 3.1
