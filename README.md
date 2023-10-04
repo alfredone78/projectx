@@ -17,6 +17,7 @@ Parts list:
 - [Power Adapter USB Type-C 5.1V 3A](https://www.amazon.it/dp/B07TZ89BT7/)
 
 - [Alfredone](http://www.alfredone.com){:target="_blank"}
+- [Alfredone](http://www.alfredone.com){:target="_blank"}
 
 ![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/001.jpg?raw=true)
 ![alt text](https://github.com/alfredone78/projectx/blob/main/pictures/002.jpg?raw=true)
